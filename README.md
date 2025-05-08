@@ -1,6 +1,6 @@
 # Calculadora JS
 
-Una calculadora simple implementada en JavaScript que permite realizar operaciones básicas.
+Una calculadora simple implementada en JavaScript que permite realizar 4 operaciones básicas.
 
 ## Características
 
